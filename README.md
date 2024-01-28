@@ -19,9 +19,10 @@ This project provides various analyses and visualizations for supply chain data.
 
 ## Usage
 
-1. Install dependencies: `pip install -r pandas plotly googletrans`
-2. Run the `main.py` file: `python main.py`
-3. Follow the on-screen instructions to choose an analysis or visualization.
+1. Unzip the file: `DataCo_Global DataSet.zip`
+2. Install dependencies: `pip install -r pandas plotly googletrans`
+3. Run the `main.py` file: `python main.py`
+4. Follow the on-screen instructions to choose an analysis or visualization.
 
 ## Dependencies
 
